@@ -58,3 +58,11 @@ $on-laptop:        950px;
         "syntax-highlighting",
 	"fancy-image"
 ;
+
+#container {width: 100%;}
+#photo {float: left; width: 20%;  clear:both;}
+#content {float: right; width: 80%;}
+
+#scontainer {width: 100%;}
+#sponsorl {float: left; width: 50%; clear:both;}
+#sponsorr {float: right; width: 50%;}
