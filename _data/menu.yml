@@ -1,0 +1,28 @@
+- title: "About"
+  href: "/about/"
+
+- title: "People"
+  href: "/people/"
+
+- title: "Projects"
+  href: "/projects/"
+  subcategories:
+    - subtitle: "Entanglement"
+      subhref: "/projects/ent/"
+
+- title: "Datasets"
+  href: "/datasets/"
+  subcategories:
+    - subtitle: "Entanglement"
+      subhref: "/datasets/ent/"
+
+- title: "Blog"
+  href: "/blog/"
+
+- title: "Events"
+  href: "/events/"
+
+- title: "Sponsors"
+  href: "/sponsors/"
+
+
