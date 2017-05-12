@@ -162,7 +162,7 @@ Zhihuang Luo
 {% include image.html url="/images/people/shuangIQCvisitor.jpg" caption="Shilin Huang" width=300 align="left" %}
 </div>
 <div id="content">
-Shilin Huang is superman!
+Junior undergraduate student at Yao Class, Tsinghua University
 </div>
 </div>
 <br>
