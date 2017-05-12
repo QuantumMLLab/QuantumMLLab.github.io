@@ -73,7 +73,7 @@ Shen Yi
 
 <div id="container">
 <div id="photo">
-{% include image.html url="/images/people/jchen.jpg" caption="Jianxin Chen" width=200 align="left" href="http://lcs.ios.ac.cn/~jchen/"%}
+{% include image.html url="/images/people/jchen.jpg" caption="Prof. Jianxin Chen" width=200 align="left" href="http://lcs.ios.ac.cn/~jchen/"%}
 </div>
 <div id="content">
 
