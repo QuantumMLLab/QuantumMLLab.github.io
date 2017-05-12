@@ -34,6 +34,18 @@ Duanlu Zhou
 
 <div id="container">
 <div id="photo">
+{% include image.html url="/images/people/zhengfeng.jpg" caption="Prof. Zhengfeng Ji" width=400 align="left" %}
+</div>
+<div id="content">
+Zhengfeng Ji
+
+</div>
+</div>
+
+
+
+<div id="container">
+<div id="photo">
 {% include image.html url="/images/people/hung.jpg" caption="Prof. Ling-Yan (Janet) Hung" width=400 align="left" %}
 </div>
 <div id="content">
