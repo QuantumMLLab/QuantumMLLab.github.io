@@ -24,7 +24,7 @@ Bei Zeng received the B.Sc. degree in physics and mathematics and M.Sc. degree i
 {% include image.html url="/images/people/jchen.jpg" caption="Jianxin Chen" width=200 align="left" %}
 </div>
 <div id="content">
-Jianxin(金牌) Chen(哥) is a QuICS Hartree Postdoctoral Fellow in quantum information and computer science. His research focuses on the theory of quantum information and its applications to algorithms, complexity theory and cryptography. Chen has co-authored several academic articles, including “Unextendible Product Basis for Fermionic Systems,” “Symmetric Extension of Two-Qubit States,” and “Universal Entanglers for Bosonic and Fermionic Systems.” He has held postdoctoral fellow positions in the Department of Mathematics and Statistics at the University of Guelph and in the Institute for Quantum Computing at the University of Waterloo. Chen received his doctorate in computer science from Tsinghua University in 2010.
+Jianxin Chen is a QuICS Hartree Postdoctoral Fellow in quantum information and computer science. His research focuses on the theory of quantum information and its applications to algorithms, complexity theory and cryptography. Chen has co-authored several academic articles, including “Unextendible Product Basis for Fermionic Systems,” “Symmetric Extension of Two-Qubit States,” and “Universal Entanglers for Bosonic and Fermionic Systems.” He has held postdoctoral fellow positions in the Department of Mathematics and Statistics at the University of Guelph and in the Institute for Quantum Computing at the University of Waterloo. Chen received his doctorate in computer science from Tsinghua University in 2010.
 </div>
 </div>
 <br>
