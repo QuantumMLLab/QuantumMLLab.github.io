@@ -4,24 +4,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/about/</loc>
+      <loc>http://qmlab.org/about/</loc>
       
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/blog/</loc>
-      
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -34,24 +19,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/downloads/</loc>
+      <loc>http://qmlab.org/blog/</loc>
       
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/downloads/ent/</loc>
-      
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -64,24 +34,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/projects/ent/</loc>
+      <loc>http://qmlab.org/downloads/</loc>
       
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/events/</loc>
-      
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -94,24 +49,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/feed.xml</loc>
+      <loc>http://qmlab.org/downloads/ent/</loc>
       
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/</loc>
-      
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -124,24 +64,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/miscellany/item-2/</loc>
+      <loc>http://qmlab.org/projects/ent/</loc>
       
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/css/main.css</loc>
-      
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -154,9 +79,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/people/</loc>
+      <loc>http://qmlab.org/events/</loc>
       
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -169,9 +94,84 @@
   
     
     <url>
-      <loc>http://localhost:4000/projects/</loc>
+      <loc>http://qmlab.org/feed.xml</loc>
       
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://qmlab.org/</loc>
+      
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://qmlab.org/miscellany/item-2/</loc>
+      
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://qmlab.org/css/main.css</loc>
+      
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://qmlab.org/people/</loc>
+      
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://qmlab.org/projects/</loc>
+      
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -186,9 +186,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/sponsors/</loc>
+      <loc>http://qmlab.org/sponsors/</loc>
       
-        <lastmod>2017-06-05T13:52:03+08:00</lastmod>
+        <lastmod>2017-06-05T14:07:18+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
