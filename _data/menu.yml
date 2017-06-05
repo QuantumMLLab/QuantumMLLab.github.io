@@ -10,11 +10,11 @@
     - subtitle: "Entanglement"
       subhref: "/projects/ent/"
 
-- title: "Datasets"
-  href: "/datasets/"
+- title: "Downloads"
+  href: "/downloads/"
   subcategories:
     - subtitle: "Entanglement"
-      subhref: "/datasets/ent/"
+      subhref: "/downloads/ent/"
 
 - title: "Blog"
   href: "/blog/"
